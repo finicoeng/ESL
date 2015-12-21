@@ -2,7 +2,7 @@
 
 Boris: Come on, keep climbing! This is the best exercise you'll get all winter.
 
-> _Давай, продолжай подниматься! Это лучшее упражнение за всю зиму._
+> _Давай, продолжай подниматься! Это лучшее упражнение на всю зиму._
 
 Kay: My face hurts and I can't stop **shivering**.
 
@@ -18,7 +18,7 @@ Kay: I doubt it. I can feel my **core body temperature dipping**. I feel **hypot
 
 Boris: Don't be silly. You're **dressed in layers**, with fabric that **wicks moisture** away from your skin and **insulates** your body from the cold. The worst you're going to get are **dry skin** and **cracked lips**.
 
-> _Не глупи. Ты **одета слоями** с тканью, которая **отталкивает влагу** от твоей кожи и **изолирует** твое тело от холода. В худшем случае, у тебя будет **сухая кожа** и **потрескавшиеся губы**._
+> _Не глупи. Ты **одета слоями** с тканью, которая **впитывает влагу** от твоей кожи и **изолирует** твое тело от холода. В худшем случае, у тебя будет **сухая кожа** и **потрескавшиеся губы**._
 
 Kay: Then why do I feel **pins and needles** in my hands and **numbness** in my feet?
 
@@ -34,11 +34,11 @@ Kay: But what if they're signs of **frostbite**? I think I'll turn back before I
 
 Boris: And miss out on these **awe-inspiring** winter views?
 
-> _И упустить эти **впечатляющие** зимние виды?_
+> _И упустить эти **потрясающие** зимние виды?_
 
 Kay: I prefer the awe-inspiring views of a **blazing** fire!
 
-> _Я предпочитаю впечатляющие виды **яркого пламени**!_
+> _Я предпочитаю потрясающие виды **яркого пламени**!_
 
 |                               |                               |
 |-------------------------------|-------------------------------|
@@ -47,7 +47,7 @@ Kay: I prefer the awe-inspiring views of a **blazing** fire!
 | core body temperature dipping | внутри температура понижается |
 | hypothermia                   | гипотермия (переохлаждение)   |
 | dressed in layers             | одетый слоями                 |
-| wick moisture                 | отталкивать влагу             |
+| wick moisture                 | впитывать влагу               |
 | insulates                     | изолировать                   |
 | dry skin                      | сухая кожа                    |
 | cracked lips                  | потрескавшиеся губы           |
@@ -55,5 +55,5 @@ Kay: I prefer the awe-inspiring views of a **blazing** fire!
 | numbness                      | онемение                      |
 | frostbite                     | обморожение                   |
 | freeze                        | замораживать, замерзать       |
-| awe-inspiring                 | впечатляющие                  |
+| awe-inspiring                 | потрясающие                   |
 | blazing                       | полыхающий, ярко горящий      |
